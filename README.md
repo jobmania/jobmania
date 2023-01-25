@@ -12,4 +12,4 @@
 
    
 
-🌱 I’m currently learning Java, DB, Jpa
+🌱 I’m currently learning Java, DB, Jpa etc

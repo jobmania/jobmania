@@ -7,7 +7,7 @@
 </a>
 
 <a href="이동할 링크">
-  <img src="https://img.shields.io/badge/MySql-skyblue?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySql-informational?style=flat-square&logo=MySql&logoColor=white"/>
 </a>
 
    

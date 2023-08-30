@@ -6,4 +6,4 @@
  <a href="[velog.io/@jobmania]" target="_blank"> <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 
 
-🌱 I’m currently learning Java, Spring MVC, Spring Boot, DataBase, SQL, Jpa etc
+🌱🌱🌱🌱🌱 >>>   🌿🌿🌿🌿 >>>> 🌴🌴🌴🌴

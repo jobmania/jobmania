@@ -1,3 +1,5 @@
+# SKILL 
+
 ### Backend
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&amp;logo=apachetomcat&amp;logoColor=black">
@@ -22,4 +24,3 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white">
   
 
-🌱🌱🌱🌱🌱 >>>   🌿🌿🌿🌿 >>>> 🌴🌴🌴🌴

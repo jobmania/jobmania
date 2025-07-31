@@ -7,7 +7,7 @@ Hi I'm Son Won Cheol 😀<br>
 <!-- 💻 백엔드 기술 -->
 <p><strong>💻 Backend</strong><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+ 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" alt="JPA"/>
@@ -41,6 +41,7 @@ Hi I'm Son Won Cheol 😀<br>
 
 <!-- 배우고 있는 기술 -->
 <p><strong>📚 Learning</strong><br>
+   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring WebFlux"/>
   <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Batch"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>

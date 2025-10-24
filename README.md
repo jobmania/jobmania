@@ -50,5 +50,4 @@ Hi I'm Son Won Cheol 😀<br>
 
 
   
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
